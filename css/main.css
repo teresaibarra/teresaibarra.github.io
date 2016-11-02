@@ -7,6 +7,7 @@
     font-family:"Montserrat Regular";
     src: url("../fonts/Montserrat-Regular.ttf")
 }
+
 ul {
 	padding: 0;
 }
@@ -114,12 +115,15 @@ p {
 .projects {
 	width: 70%;
 }
+
 .projects-title {
 	width: 8rem;
 }
+
 .links-title {
 	width: 4.5rem;
 }
+
 .links-outer {
 	display: flex;
 	justify-content: flex-end;
@@ -134,19 +138,24 @@ p {
 	.main-container {
 		height: 90%;
 	}
+
 	.navbar {
 		display: none;
 	}
+
 	.sections {
 		flex-direction: wrap;
 		padding:0;
 	}
+
 	.img-container {
 		width:100%;
 	}
+
 	.about {
 		width: 100%;
 	}
+	
 	.about-container {
 		width: 100%;
 	}
