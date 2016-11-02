@@ -102,6 +102,7 @@ p {
 .sections {
 	display: flex;
 	flex-flow: wrap;
+	padding: 0;
 }
 
 .about-container {
@@ -155,7 +156,7 @@ p {
 	.about {
 		width: 100%;
 	}
-	
+
 	.about-container {
 		width: 100%;
 	}
