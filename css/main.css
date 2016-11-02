@@ -101,8 +101,6 @@ p {
 .sections {
 	display: flex;
 	flex-flow: wrap;
-	padding-left: 5rem;
-	padding-right: 5rem;
 }
 
 .about-container {
@@ -110,7 +108,7 @@ p {
 }
 
 .about {
-	width: 80%;
+	width: 100%;
 }
 
 .projects {
@@ -130,18 +128,6 @@ p {
 
 .mobile-buttons {
 	display: none;
-}
-
-@media (max-width: 1000px) {
-	.sections {
-		padding-left: 0;
-		padding-right: 0;
-	}
-
-	.about {
-		width: 100%;
-	}
-	
 }
 
 @media (max-width: 700px) {
