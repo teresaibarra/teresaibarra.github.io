@@ -31,9 +31,9 @@ h5 {
 }
 
 h1, h2 {
-	border-bottom: 2px solid #FF7D87;
+	border-bottom: 2px solid #CEA988;
 	padding-bottom: 2px;
-	margin-bottom: 3px; 
+	margin-bottom: 3px;
 }
 
 a {
@@ -94,7 +94,7 @@ p {
 	font-family: "Montserrat Regular";
 	color: #4A4A4A;
 	text-decoration: none;
-	border-bottom: 2px solid #FF7D87;
+	border-bottom: 2px solid #CEA988;
 	padding-bottom: 2px;
 	margin-left: 2rem;
 }
